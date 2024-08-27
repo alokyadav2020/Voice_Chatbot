@@ -6,6 +6,7 @@
 - flask
 
 
+
 ### Step: 1
 
 first record voice from browser and send to flask server where recorded voice saed on local then
@@ -29,3 +30,10 @@ using llm response which is in form of text is convrted to again voice and send 
 3. copy this reposetory
 4. install requerments.tx file
 5. run app.py file using python app.y run commond.
+
+## -----------------------------------------------------
+
+## API KEYS Used
+
+1. Huggingface key
+2. Evelevnlab key
